@@ -64,7 +64,9 @@ body {
 	font-size: 3em;
 	padding-top: 2px;
 }
- @media (max-width: 767px){
- 	
+ @media(max-width: 767px) {
+  .element1 {
  height: 100%;
- }
+  top: 40%;
+}
+  }
